@@ -48,4 +48,5 @@ copy_btn.addEventListener('click',event => {
     document.execCommand("copy");
 
     document.querySelector('#copy-alert').innerText = '*tercopy*';
+    alert('berhasil mengcopy kalimat');
 });
