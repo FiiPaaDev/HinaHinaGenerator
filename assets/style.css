@@ -107,8 +107,9 @@ footer{
     text-align: center;
     position: fixed;
     width: 100%;
-    height: 20px;
+    height: 30px;
     bottom: 0;
     background-color: rgb(31, 193, 214);
+    font-size: small;
 
 }
